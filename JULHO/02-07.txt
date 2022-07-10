@@ -1,0 +1,2 @@
+Estudos:
+Git/GitHub. Clonar, atualizar repositório, verificar status e etc.
